@@ -7,7 +7,7 @@
 		<Nullable>disable</Nullable>
 
 	
-		<StartupObject>Problem4</StartupObject>
+		<StartupObject>Problem1</StartupObject>
 	</PropertyGroup>
 
 </Project>
